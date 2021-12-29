@@ -7,6 +7,7 @@ import Draft from 'F:/conselio_react/src/img/draft.png';
 import Helmet from 'F:/conselio_react/src/img/helmet.png';
 import 'F:/conselio_react/src/Components/ServiceIcon.css';
 import { Link } from 'react-router-dom';
+import { Button } from './Styles';
 const ServiceIcon =()=>{
     return(
         <>
@@ -57,9 +58,9 @@ const ServiceIcon =()=>{
         
         
         
-        
+        <Link className="btn" to="/service"><Button>Know More...</Button></Link>
         </div>
-       
+      
         </>
     )
 };

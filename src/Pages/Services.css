@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    padding:2% 0% 2% 0%;
+}
+.description{
+    
+    text-align: center;
+    font-size: x-large;
+}
+
+.col-md-8{
+    text-align:center;
+}
+
+.int {
+    background-color:#FAEDF0;
+}
+
+.cons {
+    background-color:#FAEDF0;
+}

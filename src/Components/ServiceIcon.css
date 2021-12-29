@@ -2,17 +2,24 @@ h1{
     text-align: center;
 }
 .service{
-    background-color: seashell;
+    text-align: center;
+    background-color: #FAEDF0;
     padding: 6% 5% 5% 5%;
 }
 .col-md-3{
-    padding: 2% 0% 2% 0%;
+    padding: 2% 0% 1% 0%;
     text-align: center;
 }
 .row{
     padding: 2% 0% 0% 0%;
+    margin-bottom: 3%;
 }
 
 .col-md-3:hover{
+    transform: scale(1.05);
+}
+
+.btn:hover{
+    
     transform: scale(1.05);
 }

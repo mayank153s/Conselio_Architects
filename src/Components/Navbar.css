@@ -1,16 +1,19 @@
 .navbar{
-    background-color:seashell;
+    background-color:#FAEDF0;
+    
 }
 .navbar-collapse{
     font-weight:bold;
     padding-left: 50%;
 }
 .navbar-brand{
+    
     font-size: x-large;
     font-weight:bold;
     padding: 1.5% 0% 1.5% 5%;
 
 }
+
 
 
  
