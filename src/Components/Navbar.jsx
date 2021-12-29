@@ -11,7 +11,7 @@ class Navbar extends React.Component {
             
 
 <nav className="navbar navbar-expand-lg navbar-light">
-  <div className="container-fluid">
+  <div className="container-fluid" >
   
    <Link className="navbar-brand" to="/">Conselio Architects</Link>
    

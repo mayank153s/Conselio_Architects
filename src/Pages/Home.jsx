@@ -1,4 +1,5 @@
 import React from "react";
+import ServiceIcon from "../Components/ServiceIcon";
 
 import Slides from "../Components/Slides";
 
@@ -9,7 +10,7 @@ const Home = () =>{
         <>
         
         <Slides/>
-        
+        <ServiceIcon/>
         </>
 
 
