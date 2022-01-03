@@ -1,3 +1,4 @@
+import Footer from "F:/conselio_react/src/Components/Footer.jsx";
 import React from "react";
 import 'F:/conselio_react/src/Pages/Services.css';
 import Consulting from 'F:/conselio_react/src/img/Download premium image of Business people talking in a consultation 2020108.jpg';
@@ -55,7 +56,7 @@ const Services = () =>{
 
         </div>
        
-
+        <Footer/>
         </>
         
 
