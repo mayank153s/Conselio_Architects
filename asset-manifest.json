@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6f407317.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.38000f9b.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.38000f9b.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.879a1a7b.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.3a4b811c.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.3a4b811c.chunk.js.map",
     "runtime-main.js": "/react-gh-pages/static/js/runtime-main.9340e6f1.js",
     "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.9340e6f1.js.map",
     "static/css/2.67d44514.chunk.css": "/react-gh-pages/static/css/2.67d44514.chunk.css",
-    "static/js/2.b8448872.chunk.js": "/react-gh-pages/static/js/2.b8448872.chunk.js",
-    "static/js/2.b8448872.chunk.js.map": "/react-gh-pages/static/js/2.b8448872.chunk.js.map",
+    "static/js/2.d80a1730.chunk.js": "/react-gh-pages/static/js/2.d80a1730.chunk.js",
+    "static/js/2.d80a1730.chunk.js.map": "/react-gh-pages/static/js/2.d80a1730.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
     "static/css/2.67d44514.chunk.css.map": "/react-gh-pages/static/css/2.67d44514.chunk.css.map",
-    "static/css/main.6f407317.chunk.css.map": "/react-gh-pages/static/css/main.6f407317.chunk.css.map",
-    "static/js/2.b8448872.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.b8448872.chunk.js.LICENSE.txt",
+    "static/css/main.879a1a7b.chunk.css.map": "/react-gh-pages/static/css/main.879a1a7b.chunk.css.map",
+    "static/js/2.d80a1730.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.d80a1730.chunk.js.LICENSE.txt",
     "static/media/Departamentos en Renta en Distrito Federal, CDMX.07b09a38.jpg": "/react-gh-pages/static/media/Departamentos en Renta en Distrito Federal, CDMX.07b09a38.jpg",
     "static/media/Download premium image of Business people talking in a consultation 2020108.cdda0903.jpg": "/react-gh-pages/static/media/Download premium image of Business people talking in a consultation 2020108.cdda0903.jpg",
     "static/media/akconstruction.cea7eb97.jpg": "/react-gh-pages/static/media/akconstruction.cea7eb97.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.9340e6f1.js",
     "static/css/2.67d44514.chunk.css",
-    "static/js/2.b8448872.chunk.js",
-    "static/css/main.6f407317.chunk.css",
-    "static/js/main.38000f9b.chunk.js"
+    "static/js/2.d80a1730.chunk.js",
+    "static/css/main.879a1a7b.chunk.css",
+    "static/js/main.3a4b811c.chunk.js"
   ]
 }
