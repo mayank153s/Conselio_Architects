@@ -5,11 +5,14 @@ import Consulting from 'F:/conselio_react/src/img/Download premium image of Busi
 import Construction from 'F:/conselio_react/src/img/josue-isai-ramos-figueroa-qvBYnMuNJ9A-unsplash.jpg';
 import Structure from 'F:/conselio_react/src/img/ryan-ancill-nGsVMkRatgM-unsplash.jpg';
 import Interior from 'F:/conselio_react/src/img/Departamentos en Renta en Distrito Federal, CDMX.jpg';
+import { Wrapper } from "../Components/Styles";
 const Services = () =>{
     return(
         <>
+        
         <div className="container-fluid serv">
         <h1>OUR SERVICES</h1>
+      
         <div className="row int">
             <div className="col-sm-4 ">
                 <img src={Interior} height={350} width={400}/>
@@ -19,6 +22,7 @@ const Services = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
         </div>
+        
         
 
         <div className="row strc">
