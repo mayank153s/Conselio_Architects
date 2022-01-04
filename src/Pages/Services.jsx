@@ -9,7 +9,6 @@ import { Wrapper } from "../Components/Styles";
 const Services = () =>{
     return(
         <>
-        
         <div className="container-fluid serv">
         <h1>OUR SERVICES</h1>
       
