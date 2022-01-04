@@ -13,8 +13,8 @@ const Services = () =>{
         <Title primary>OUR SERVICES</Title>
         <Container>
         <div className="row row-cols-2 int">
-            <div className="col-lg-4 col-sm-12 photo ">
-                <img src={Interior} />
+            <div className="col-lg-4 col-sm-12 ">
+                <img className="photo" src={Interior}   />
             </div>
             <div className="col-lg-8 col-sm-12 description">
             <Title primary>Interior Design</Title>
@@ -33,7 +33,7 @@ const Services = () =>{
            
             </div>
             <div className="col-lg-4 col-sm-12 photo ">
-            <img src={Structure} />
+            <img className="photo" src={Structure} />
              </div>
         </div>
         </Container>
@@ -43,7 +43,7 @@ const Services = () =>{
         <Container>
         <div className="row row-cols-2 cons">
             <div className="col-lg-4 col-sm-12 photo ">
-                <img src={Construction} />
+                <img className="photo" src={Construction} />
             </div>
             <div className="col-lg-8 col-sm-12 description">
             <Title primary>Construction</Title>
@@ -62,8 +62,8 @@ const Services = () =>{
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
            
             </div>
-            <div className="col-lg-4 col-sm-12 photo">
-            <img src={Consulting} />
+            <div className="col-lg-4 col-sm-12 ">
+            <img className="photo" src={Consulting}  />
              </div>
         </div>
         </Container>
