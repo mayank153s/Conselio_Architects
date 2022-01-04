@@ -1,21 +1,13 @@
-h1{
-    text-align: center;
-    padding:2% 0% 2% 0%;
-}
 .description{
-    
-    text-align: center;
-    font-size: x-large;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: larger;
+   
 }
 
-.col-md-8{
-    text-align:center;
-}
-
-.int {
-    background-color:#FAEDF0;
-}
-
-.cons {
-    background-color:#FAEDF0;
+img{
+    border-radius: 5%;
+    width: 350px;
+    height: 350px;
+    object-fit: cover;
 }

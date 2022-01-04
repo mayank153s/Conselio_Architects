@@ -5,59 +5,73 @@ import Consulting from 'F:/conselio_react/src/img/Download premium image of Busi
 import Construction from 'F:/conselio_react/src/img/josue-isai-ramos-figueroa-qvBYnMuNJ9A-unsplash.jpg';
 import Structure from 'F:/conselio_react/src/img/ryan-ancill-nGsVMkRatgM-unsplash.jpg';
 import Interior from 'F:/conselio_react/src/img/Departamentos en Renta en Distrito Federal, CDMX.jpg';
-import { Wrapper } from "../Components/Styles";
+import { Title, Wrapper } from "../Components/Styles";
+import { Container } from './../Components/Styles';
 const Services = () =>{
     return(
         <>
-        <div className="container-fluid serv">
-        <h1>OUR SERVICES</h1>
-      
-        <div className="row int">
-            <div className="col-sm-4 ">
-                <img src={Interior} height={350} width={400}/>
+        <Title primary>OUR SERVICES</Title>
+        <Container>
+        <div className="row row-cols-2 int">
+            <div className="col-lg-4 col-sm-12 photo ">
+                <img src={Interior} />
             </div>
-            <div className="col-sm-8 description">
-            <h2>Interior Design</h2>
+            <div className="col-lg-8 col-sm-12 description">
+            <Title primary>Interior Design</Title>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
         </div>
+        </Container>
         
         
-
-        <div className="row strc">
-            <div className="col-sm-8 description">
-            <h2>Structural Design</h2>
+        
+        <Container>
+        <div className="row row-cols-2 strc">
+            <div className="col-lg-8 col-sm-12 description">
+            <Title primary>Structural Design</Title>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
            
             </div>
-            <div className="col-sm-4 ">
-            <img src={Structure} height={350} width={400}/>
+            <div className="col-lg-4 col-sm-12 photo ">
+            <img src={Structure} />
              </div>
         </div>
+        </Container>
 
-        <div className="row cons">
-            <div className="col-sm-4 ">
-                <img src={Construction} height={350} width={400}/>
+
+        
+        <Container>
+        <div className="row row-cols-2 cons">
+            <div className="col-lg-4 col-sm-12 photo ">
+                <img src={Construction} />
             </div>
-            <div className="col-sm-8 description">
-            <h2>Construction</h2>
+            <div className="col-lg-8 col-sm-12 description">
+            <Title primary>Construction</Title>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
             </div>
         </div>
+        </Container>
 
 
-        <div className="row consult">
-            <div className="col-sm-8 description">
-            <h2>Consulting</h2>
+
+
+        <Container>
+        <div className="row row-cols-2 consult">
+            <div className="col-lg-8 col-sm-12 description">
+            <Title primary>Consulting</Title>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
            
             </div>
-            <div className="col-sm-4">
-            <img src={Consulting} height={350} width={400}/>
+            <div className="col-lg-4 col-sm-12 photo">
+            <img src={Consulting} />
              </div>
         </div>
+        </Container>
 
-        </div>
+        {/* height={350} width={400}
+height={350} width={400}
+height={350} width={400}
+height={350} width={400} */}
        
         <Footer/>
         </>

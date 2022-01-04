@@ -1,5 +1,6 @@
 import styles from 'styled-components';
 import { Link } from 'react-router-dom';
+import { FaCentercode } from 'react-icons/fa';
 
 export const Button = styles.button`
   background: transparent;
@@ -18,12 +19,26 @@ export const Button = styles.button`
  
 `;
 
+export const Container = styles.div`
+text-align: center;
+padding: 5% 5% 5% 5%;
+`;
+
+
+
+
+
 
 export const Title = styles.div`
+text-align: center;
+padding: 2% 2%;
 font-size: xx-large;
 font-weight: bolder;
 color: ${props => props.primary? "black" : "white"};
 `;
+
+
+
 export const StyledLink = styles(Link)`
 color: #fff;
 text-decoration:none;
