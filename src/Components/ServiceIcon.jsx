@@ -1,11 +1,11 @@
-import {FaHardHat, FaDraftingCompass} from 'F:/conselio_react/node_modules/react-icons/fa';
-import LivingRoom from 'F:/conselio_react/src/img/livingroom.png';
-import LivingRoom1 from 'F:/conselio_react/src/img/livingroom (1).png';
-import Consulting from 'F:/conselio_react/src/img/avatar.png';
-import Consulting1 from 'F:/conselio_react/src/img/avatar (1).png';
-import Draft from 'F:/conselio_react/src/img/draft.png';
-import Helmet from 'F:/conselio_react/src/img/helmet.png';
-import 'F:/conselio_react/src/Components/ServiceIcon.css';
+import {FaHardHat, FaDraftingCompass} from 'F:/consilio_react/node_modules/react-icons/fa';
+import LivingRoom from 'F:/consilio_react/src/img/livingroom.png';
+import LivingRoom1 from 'F:/consilio_react/src/img/livingroom (1).png';
+import Consulting from 'F:/consilio_react/src/img/avatar.png';
+import Consulting1 from 'F:/consilio_react/src/img/avatar (1).png';
+import Draft from 'F:/consilio_react/src/img/draft.png';
+import Helmet from 'F:/consilio_react/src/img/helmet.png';
+import 'F:/consilio_react/src/Components/ServiceIcon.css';
 import { Link } from 'react-router-dom';
 import { Button } from './Styles';
 const ServiceIcon =()=>{
