@@ -11,20 +11,20 @@ const Footer=()=>{
         <Wrapper>
         <div className="row">
             <div className="col-md-4">
-               <Title>Conselio Architects</Title>
+               <Title>Consilio Architects</Title>
             </div>
             <div className="col-md-8">
             <div className="row footerLinks">
             <div className="col-6">
                 <ul>
-                    <li><StyledLink to="/">Home</StyledLink></li>
+                    <li><StyledLink to="/Consilio_Architects">Home</StyledLink></li>
                     <li><StyledLink to="/service">Services</StyledLink></li>
                     <li><StyledLink to="/project">Projects</StyledLink></li>
                     <li><StyledLink to="/about">About</StyledLink></li>
                 </ul>
                 </div>
                 <div className="col-6">
-                    <li><a href={insta}><StyledLink><FaInstagram/></StyledLink></a></li>
+                    <li><StyledLink><FaInstagram/></StyledLink></li>
                     <li><StyledLink><FaFacebookF/></StyledLink></li>
                     <li><StyledLink><FaLinkedinIn/></StyledLink></li>
                     <li><StyledLink><FaTwitter/></StyledLink></li>

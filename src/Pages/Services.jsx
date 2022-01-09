@@ -11,7 +11,7 @@ const Services = () =>{
     return(
         <>
         <Title primary>OUR SERVICES</Title>
-        <Container>
+        <Container primary>
         <div className="row row-cols-2 int">
             <div className="col-lg-4 col-sm-12 ">
                 <img className="photo" src={Interior}   />
@@ -40,7 +40,7 @@ const Services = () =>{
 
 
         
-        <Container>
+        <Container primary>
         <div className="row row-cols-2 cons">
             <div className="col-lg-4 col-sm-12 photo ">
                 <img className="photo" src={Construction} />

@@ -13,7 +13,7 @@ class Navbar extends React.Component {
 <nav className="navbar navbar-expand-lg navbar-light">
   <div className="container-fluid" >
   
-   <Link className="navbar-brand" to="/">Conselio Architects</Link>
+   <Link className="navbar-brand" to="/">Consilio Architects</Link>
    
 
 
@@ -24,7 +24,7 @@ class Navbar extends React.Component {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav">
         <li className="nav-item">
-          <Link className="nav-link" to="/">Home</Link>
+          <Link className="nav-link" to="/Consilio_Architects">Home</Link>
         </li>
        
         <li className="nav-item">
