@@ -22,7 +22,7 @@ export const Button = styles.button`
 export const Container = styles.div`
 text-align: center;
 padding: 5% 5% 5% 5%;
-background: ${props => props.primary ? "#FAEDF0" : "white"};
+background: ${props => props.primary ? "#FAEDF0" : "#D3DEDC"};
 `;
 
 
