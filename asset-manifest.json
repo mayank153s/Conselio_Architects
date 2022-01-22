@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Consilio_Architects/static/css/main.750d64af.chunk.css",
-    "main.js": "/Consilio_Architects/static/js/main.eb5ba623.chunk.js",
-    "main.js.map": "/Consilio_Architects/static/js/main.eb5ba623.chunk.js.map",
+    "main.js": "/Consilio_Architects/static/js/main.8c2cbbf1.chunk.js",
+    "main.js.map": "/Consilio_Architects/static/js/main.8c2cbbf1.chunk.js.map",
     "runtime-main.js": "/Consilio_Architects/static/js/runtime-main.2c3bf2bb.js",
     "runtime-main.js.map": "/Consilio_Architects/static/js/runtime-main.2c3bf2bb.js.map",
     "static/css/2.67d44514.chunk.css": "/Consilio_Architects/static/css/2.67d44514.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.67d44514.chunk.css",
     "static/js/2.e18b6c5d.chunk.js",
     "static/css/main.750d64af.chunk.css",
-    "static/js/main.eb5ba623.chunk.js"
+    "static/js/main.8c2cbbf1.chunk.js"
   ]
 }
