@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Consilio_Architects/static/css/main.750d64af.chunk.css",
-    "main.js": "/Consilio_Architects/static/js/main.8c2cbbf1.chunk.js",
-    "main.js.map": "/Consilio_Architects/static/js/main.8c2cbbf1.chunk.js.map",
+    "main.js": "/Consilio_Architects/static/js/main.1ffb7e65.chunk.js",
+    "main.js.map": "/Consilio_Architects/static/js/main.1ffb7e65.chunk.js.map",
     "runtime-main.js": "/Consilio_Architects/static/js/runtime-main.2c3bf2bb.js",
     "runtime-main.js.map": "/Consilio_Architects/static/js/runtime-main.2c3bf2bb.js.map",
     "static/css/2.67d44514.chunk.css": "/Consilio_Architects/static/css/2.67d44514.chunk.css",
-    "static/js/2.e18b6c5d.chunk.js": "/Consilio_Architects/static/js/2.e18b6c5d.chunk.js",
-    "static/js/2.e18b6c5d.chunk.js.map": "/Consilio_Architects/static/js/2.e18b6c5d.chunk.js.map",
+    "static/js/2.12ef9c5c.chunk.js": "/Consilio_Architects/static/js/2.12ef9c5c.chunk.js",
+    "static/js/2.12ef9c5c.chunk.js.map": "/Consilio_Architects/static/js/2.12ef9c5c.chunk.js.map",
     "index.html": "/Consilio_Architects/index.html",
     "static/css/2.67d44514.chunk.css.map": "/Consilio_Architects/static/css/2.67d44514.chunk.css.map",
     "static/css/main.750d64af.chunk.css.map": "/Consilio_Architects/static/css/main.750d64af.chunk.css.map",
-    "static/js/2.e18b6c5d.chunk.js.LICENSE.txt": "/Consilio_Architects/static/js/2.e18b6c5d.chunk.js.LICENSE.txt",
+    "static/js/2.12ef9c5c.chunk.js.LICENSE.txt": "/Consilio_Architects/static/js/2.12ef9c5c.chunk.js.LICENSE.txt",
     "static/media/Departamentos en Renta en Distrito Federal, CDMX.07b09a38.jpg": "/Consilio_Architects/static/media/Departamentos en Renta en Distrito Federal, CDMX.07b09a38.jpg",
     "static/media/Download premium image of Business people talking in a consultation 2020108.cdda0903.jpg": "/Consilio_Architects/static/media/Download premium image of Business people talking in a consultation 2020108.cdda0903.jpg",
     "static/media/akconstruction.cea7eb97.jpg": "/Consilio_Architects/static/media/akconstruction.cea7eb97.jpg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.2c3bf2bb.js",
     "static/css/2.67d44514.chunk.css",
-    "static/js/2.e18b6c5d.chunk.js",
+    "static/js/2.12ef9c5c.chunk.js",
     "static/css/main.750d64af.chunk.css",
-    "static/js/main.8c2cbbf1.chunk.js"
+    "static/js/main.1ffb7e65.chunk.js"
   ]
 }
