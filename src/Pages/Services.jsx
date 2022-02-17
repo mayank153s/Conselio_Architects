@@ -1,4 +1,4 @@
-import Footer from "F:/consilio_react/src/Components/Footer.jsx";
+import Footer from "F:/consilio_react/src/Components/Footer";
 import React from "react";
 import 'F:/consilio_react/src/Pages/Services.css';
 import Consulting from 'F:/consilio_react/src/img/Download premium image of Business people talking in a consultation 2020108.jpg';
