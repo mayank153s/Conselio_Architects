@@ -3,7 +3,7 @@ import {  Container } from './Styles';
 import emailjs from "emailjs-com";
 import { Form, Input, TextArea, Button} from "semantic-ui-react";
 import Swal from "sweetalert2";
-import Footer from '../Components/Footer'
+// import Footer from '../Components/Footer'
 const SERVICE_ID = "service_7m5qdvt";
 const TEMPLATE_ID = "template_zsan0gp";
 const USER_ID = "user_UmVluPsmgERL6N88Ru1Xw";

@@ -1,6 +1,6 @@
 import styles from 'styled-components';
 import { Link } from 'react-router-dom';
-import { FaCentercode } from 'react-icons/fa';
+// import { FaCentercode } from 'react-icons/fa';
 
 export const Button = styles.button`
   background: transparent;

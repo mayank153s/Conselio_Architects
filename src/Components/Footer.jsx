@@ -1,12 +1,12 @@
 import {FaMapMarkerAlt,FaPhoneAlt} from 'F:/consilio_react/node_modules/react-icons/fa';
 import { Wrapper, StyledLink, Title, Button } from "./Styles";
-import Projects from './../Pages/Projects';
-import Services from './../Pages/Services';
-import Home from './../Pages/Home';
-import { Link } from 'react-router-dom';
+// import Projects from './../Pages/Projects';
+// import Services from './../Pages/Services';
+// import Home from './../Pages/Home';
+// import { Link } from 'react-router-dom';
 import { FaFacebookF, FaTwitter,FaInstagram, FaEnvelope, FaLinkedinIn} from "react-icons/fa";
-import Form from "./MailForm";
-import MailForm from "./MailForm";
+// import Form from "./MailForm";
+// import MailForm from "./MailForm";
 const Footer=()=>{
     let insta="https://www.instagram.com/consilio.architects/";
     return(

@@ -1,7 +1,7 @@
 
-import LivingRoom from 'F:/consilio_react/src/img/livingroom.png';
+// import LivingRoom from 'F:/consilio_react/src/img/livingroom.png';
 import LivingRoom1 from 'F:/consilio_react/src/img/livingroom (1).png';
-import Consulting from 'F:/consilio_react/src/img/avatar.png';
+// import Consulting from 'F:/consilio_react/src/img/avatar.png';
 import Consulting1 from 'F:/consilio_react/src/img/avatar (1).png';
 import Draft from 'F:/consilio_react/src/img/draft.png';
 import Helmet from 'F:/consilio_react/src/img/helmet.png';

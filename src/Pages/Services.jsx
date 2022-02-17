@@ -1,11 +1,11 @@
-import Footer from "F:/consilio_react/src/Components/Footer";
+import Footer from "F:/consilio_react/src/Components/Footer.jsx";
 import React from "react";
 import 'F:/consilio_react/src/Pages/Services.css';
 import Consulting from 'F:/consilio_react/src/img/Download premium image of Business people talking in a consultation 2020108.jpg';
 import Construction from 'F:/consilio_react/src/img/josue-isai-ramos-figueroa-qvBYnMuNJ9A-unsplash.jpg';
 import Structure from 'F:/consilio_react/src/img/ryan-ancill-nGsVMkRatgM-unsplash.jpg';
 import Interior from 'F:/consilio_react/src/img/Departamentos en Renta en Distrito Federal, CDMX.jpg';
-import { Title, Wrapper } from "../Components/Styles";
+import { Title } from "../Components/Styles";
 import { Container } from './../Components/Styles';
 const Services = () =>{
     return(
