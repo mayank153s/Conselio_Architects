@@ -1,13 +1,21 @@
 import React from "react";
+import { Container, Title } from "../Components/Styles";
+
+
+
 import Footer from './../Components/Footer';
+
 
 
 
 const About = () =>{
     return(
         <>
-        <h1>about</h1>
-        <Footer/>
+         <Title primary >About Us...</Title>
+         <Container></Container>
+         <Footer/>
+
+        
         </>
     );
 };

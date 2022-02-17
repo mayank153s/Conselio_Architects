@@ -36,7 +36,8 @@ padding: 2% 2%;
 font-size: xx-large;
 font-weight: bolder;
 color: ${props => props.primary? "black" : "white"};
-`;
+`
+;
 
 
 

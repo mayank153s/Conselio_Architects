@@ -7,6 +7,7 @@ import Services from './Pages/Services';
 import Projects from './Pages/Projects';
 import Home from './Pages/Home';
 import Navbar from './Components/Navbar';
+import Contact from './Pages/Contact';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
      <Route  exact path="/service" component={Services} />
      <Route  exact path="/about" component={About} />
      <Route  exact path="/project"  component={Projects} />
+     <Route  exact path="/contact"  component={Contact} />
    </Switch>
   
     

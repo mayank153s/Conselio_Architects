@@ -1,15 +1,38 @@
-.description{
-    text-align: center;
-    padding-left: 5%;
-    padding-right: 5%;
-    font-size: larger;
-   
+
+    .description{
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-size: larger;
+       
+    }  
+    .photo{
+        text-align: center;
+        border-radius: 5%;
+        width: 350px;
+        height: 350px;
+        object-fit:cover;
+    }  
+    
+
+@media screen and (max-width:700px) and (min-width:50px) {
+    
+    .description{
+        text-align: center;
+        padding-left: 5%;
+        padding-right: 5%;
+        font-size:small;
+       
+    } 
+    .photo{ 
+        position:relative;
+        margin-top: 43%;
+        margin-bottom: 33.3%;
+        text-align: center;
+        border-radius: 5%;
+        width: 100px;
+        height: 100px;
+        object-fit:cover;
+    } 
 }
 
-.photo{
-    text-align: center;
-    border-radius: 5%;
-    width: 350px;
-    height: 350px;
-    object-fit:cover;
-}

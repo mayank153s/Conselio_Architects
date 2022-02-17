@@ -1,4 +1,4 @@
-import {FaHardHat, FaDraftingCompass} from 'F:/consilio_react/node_modules/react-icons/fa';
+
 import LivingRoom from 'F:/consilio_react/src/img/livingroom.png';
 import LivingRoom1 from 'F:/consilio_react/src/img/livingroom (1).png';
 import Consulting from 'F:/consilio_react/src/img/avatar.png';
